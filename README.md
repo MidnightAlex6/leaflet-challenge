@@ -39,3 +39,8 @@ Your first task is to visualize an earthquake dataset. Complete the following st
    * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
    * Create a legend that will provide context for your map data.
+  
+
+<img width="1241" alt="Earthquake Visualization" src="https://github.com/MidnightAlex6/leaflet-challenge/assets/126301312/04e11f5d-84d1-4449-9ce3-0c0d78b55d84">
+
+
